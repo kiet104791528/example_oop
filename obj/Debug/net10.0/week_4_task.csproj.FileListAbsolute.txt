@@ -1,0 +1,28 @@
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\obj\Debug\net10.0\week_4_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\obj\Debug\net10.0\week_4_task.AssemblyInfoInputs.cache
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\obj\Debug\net10.0\week_4_task.AssemblyInfo.cs
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\obj\Debug\net10.0\week_4_task.csproj.CoreCompileInputs.cache
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\bin\Debug\net10.0\week_4_task.exe
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\bin\Debug\net10.0\week_4_task.deps.json
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\bin\Debug\net10.0\week_4_task.runtimeconfig.json
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\bin\Debug\net10.0\week_4_task.dll
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\bin\Debug\net10.0\week_4_task.pdb
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\obj\Debug\net10.0\week_4_task.dll
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\obj\Debug\net10.0\refint\week_4_task.dll
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\obj\Debug\net10.0\week_4_task.pdb
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\obj\Debug\net10.0\week_4_task.genruntimeconfig.cache
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\obj\Debug\net10.0\ref\week_4_task.dll
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task assesible splashkit\bin\Debug\net10.0\week_4_task.exe
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task assesible splashkit\bin\Debug\net10.0\week_4_task.deps.json
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task assesible splashkit\bin\Debug\net10.0\week_4_task.runtimeconfig.json
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task assesible splashkit\bin\Debug\net10.0\week_4_task.dll
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task assesible splashkit\bin\Debug\net10.0\week_4_task.pdb
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task assesible splashkit\obj\Debug\net10.0\week_4_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task assesible splashkit\obj\Debug\net10.0\week_4_task.AssemblyInfoInputs.cache
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task assesible splashkit\obj\Debug\net10.0\week_4_task.AssemblyInfo.cs
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task assesible splashkit\obj\Debug\net10.0\week_4_task.csproj.CoreCompileInputs.cache
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task assesible splashkit\obj\Debug\net10.0\week_4_task.dll
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task assesible splashkit\obj\Debug\net10.0\refint\week_4_task.dll
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task assesible splashkit\obj\Debug\net10.0\week_4_task.pdb
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task assesible splashkit\obj\Debug\net10.0\week_4_task.genruntimeconfig.cache
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task assesible splashkit\obj\Debug\net10.0\ref\week_4_task.dll

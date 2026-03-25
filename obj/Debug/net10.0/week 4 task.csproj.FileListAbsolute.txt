@@ -1,0 +1,14 @@
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\obj\Debug\net10.0\week 4 task.GeneratedMSBuildEditorConfig.editorconfig
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\obj\Debug\net10.0\week 4 task.AssemblyInfoInputs.cache
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\obj\Debug\net10.0\week 4 task.AssemblyInfo.cs
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\obj\Debug\net10.0\week 4 task.csproj.CoreCompileInputs.cache
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\bin\Debug\net10.0\week 4 task.exe
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\bin\Debug\net10.0\week 4 task.deps.json
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\bin\Debug\net10.0\week 4 task.runtimeconfig.json
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\bin\Debug\net10.0\week 4 task.dll
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\bin\Debug\net10.0\week 4 task.pdb
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\obj\Debug\net10.0\week 4 task.dll
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\obj\Debug\net10.0\refint\week 4 task.dll
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\obj\Debug\net10.0\week 4 task.pdb
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\obj\Debug\net10.0\week 4 task.genruntimeconfig.cache
+D:\swinburne time\sem 2 year 2\cos20007\week 4 task\obj\Debug\net10.0\ref\week 4 task.dll
