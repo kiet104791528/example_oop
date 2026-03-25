@@ -3,6 +3,7 @@ using SplashKitSDK;
 
 namespace week_4_task
 {
+    //First comment for new github code
     public class Shape
     {
         private Color _color;
@@ -10,7 +11,7 @@ namespace week_4_task
         private float _x;
         private float _y;
         private int width;
-        private int height;
+        private int height;   //First comment for new github code
     
         public Shape(int param)
         {
